@@ -4,4 +4,4 @@ General trend suggest that the success rate decreases as contribution goal incre
 
 The Outcome Based on Launch Date shows the launch date highly correlates to campaign success. The month of May has the highest and December has the lowest chance of success. The chart shows the canceled events remain consistent through the year and does not directly relates to launch date. Live outcomes are filtered from "outcome Based on Launch Date" charts as they only happened in the first 3 months of the year.
 
-It is recommended to analyze the data based on achieved goal, cost and duration of campaign. The number of backers along with their contribution average is an important factor to decide if the campaign justifies. Additionally, a pivot table filtered by country cam represent more realistic result.
+It is recommended to analyze the data based on achieved goal, cost and duration of campaign. The number of backers along with their contribution average is an important factor to decide if the campaign justifies. Additionally, a pivot table filtered by country can represent more realistic result.
