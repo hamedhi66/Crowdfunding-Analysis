@@ -1,0 +1,7 @@
+# Crowdfunding-Analysis
+### Challenge
+General trend suggest that the success rate decreases as contribution goal increases. Success rate is highest, failure and cancelations are lowest for contribution goals of less than $1000. The success/failure trend may suggest setting the fundraising contributions goal to less than $1000, but such decision requires further analysis. Outcomes analysis solely based on goal can be misleading. It is true that with lower contribution goals the success rate is higher, but other factors should be considered such as duration and associated cost of campaigns. There is a sharp decline in success rate for contribution rates more than $45,000. It is highly recommended to keep the maximum goal at $45,000.
+
+The Outcome Based on Launch Date shows the launch date highly correlates to campaign success. The month of May has the highest and December has the lowest chance of success. The chart shows the canceled events remain consistent through the year and does not directly relates to launch date. Live outcomes are filtered from "outcome Based on Launch Date" charts as they only happened in the first 3 months of the year.
+
+It is recommended to analyze the data based on achieved goal, cost and duration of campaign. The number of backers along with their contribution average is an important factor to decide if the campaign justifies. Additionally, a pivot table filtered by country cam represent more realistic result.
